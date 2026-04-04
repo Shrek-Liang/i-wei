@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.example.weatherapp-debug-39:/xml_weather_widget_info.xml.flat",
+        "source": "com.example.weatherapp-main-41:/xml/weather_widget_info.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-39:/drawable_ic_back.xml.flat",
+        "source": "com.example.weatherapp-main-41:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-39:/layout_activity_main.xml.flat",
+        "source": "com.example.weatherapp-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-39:/layout_widget_weather.xml.flat",
+        "source": "com.example.weatherapp-main-41:/layout/widget_weather.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-39:/drawable_ic_launcher.xml.flat",
+        "source": "com.example.weatherapp-main-41:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-39:/drawable_ic_arrow_right.xml.flat",
+        "source": "com.example.weatherapp-main-41:/drawable/ic_arrow_right.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-39:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.weatherapp-main-41:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-39:/layout_activity_weather_detail.xml.flat",
+        "source": "com.example.weatherapp-main-41:/layout/activity_weather_detail.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-39:/drawable_ic_location.xml.flat",
+        "source": "com.example.weatherapp-main-41:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-39:/layout_item_forecast.xml.flat",
+        "source": "com.example.weatherapp-main-41:/layout/item_forecast.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-39:/layout_activity_city_search.xml.flat",
+        "source": "com.example.weatherapp-main-41:/layout/activity_city_search.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-39:/mipmap-anydpi-v26_ic_launcher_foreground.xml.flat",
+        "source": "com.example.weatherapp-main-41:/mipmap-anydpi-v26/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-39:/layout_item_favorite_city.xml.flat",
+        "source": "com.example.weatherapp-main-41:/layout/item_favorite_city.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-39:/layout_item_city_search.xml.flat",
+        "source": "com.example.weatherapp-main-41:/layout/item_city_search.xml"
+    }
+]
